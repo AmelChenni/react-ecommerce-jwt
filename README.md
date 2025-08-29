@@ -38,8 +38,7 @@ The project is designed as practice for **React state management (`useState`, `u
 ![Preview Screenshot](Screenshot-ProductsPage1.png)  
 ![Preview Screenshot](Screenshot-DetailsPage1.png)  
 ![Preview Screenshot](Screenshot-loginPage.png) 
-![Preview Screenshot](Screenshot-registerPage
-.png) 
+![Preview Screenshot](Screenshot-registerPage.png) 
 
 ---
 
