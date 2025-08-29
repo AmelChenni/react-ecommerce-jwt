@@ -1,6 +1,6 @@
 # 🛒 React E-commerce with JWT  
 
-🌐 **Live Demo:** [View Project](https://amelchenni.github.io/products)  
+🌐 **Live Demo:** [View Project](https://amelchenni.github.io/react-ecommerce-jwt/)  
 
 ---
 
